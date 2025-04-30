@@ -1,2 +1,4 @@
 # Simple-UART-VHDL
-Just a simple UART protocol written in vhdl
+For now, I’ve only written the TX transmitter. I’ll work on the RX receiver when I get bored.
+
+Since It is not a very original idea ): You can use the code however you want.
